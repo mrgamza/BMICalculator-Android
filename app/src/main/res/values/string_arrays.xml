@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- MainActivity -->
+	<string-array name="main_texts">
+		<item>저체중</item>
+		<item>정상</item>
+		<item>과체중</item>
+		<item>경도비만</item>
+		<item>중등도비만</item>
+	</string-array>
+</resources>

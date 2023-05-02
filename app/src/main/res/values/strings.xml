@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Application Data -->
+	<string name="app_name">비만도 계산기</string>
+
+	<!-- MainActivity -->
+	<string name="main_empty_message"></string>
+
+	<!-- Dialog -->
+	<string name="dialog_compute_title">계산결과</string>
+	<string name="dialog_compute_positive_button">확인</string>
+	<string name="dialog_compute_format">BMI : %1$.2f / %2$s</string>
+	<string name="dialog_exit_title">종료</string>
+	<string name="dialog_exit_message">종료하시겠습니까?</string>
+	<string name="dialog_exit_positive_button">확인</string>
+	<string name="dialog_exit_negative_button">취소</string>
+</resources>
